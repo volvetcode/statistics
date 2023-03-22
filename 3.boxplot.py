@@ -7,4 +7,6 @@ data = {
 
 df = pd.DataFrame(data)
 b_plot = df.boxplot(column = 'numbers')
-print (b_plot.plot())
+b_plot.plot()
+
+print (plot.show())

@@ -1,3 +1,4 @@
+#mode, mean and median
 import pandas as pd
 
 data = {
